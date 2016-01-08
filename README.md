@@ -1,2 +1,2 @@
 # LeetCode_Python
-Solutions for LeetCode using Python
+Solutions for LeetCode OJ using Python
